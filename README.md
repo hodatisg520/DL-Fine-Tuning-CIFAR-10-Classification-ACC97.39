@@ -38,4 +38,4 @@ The combination of a highly efficient architecture, state-of-the-art data augmen
 
 ## Repository Contents
 
-- `ML4ds_assignment_5_deeplearning_2.ipynb`: The main Jupyter Notebook containing the full training pipeline, from data preparation to model definition, training loop, and final evaluation.
+- `CIFAR10_EfficientNet_FineTuning.ipynb`: The main Jupyter Notebook containing the full training pipeline, from data preparation to model definition, training loop, and final evaluation.
